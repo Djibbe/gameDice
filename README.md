@@ -1,0 +1,2 @@
+# gameDice
+diguina fils 
